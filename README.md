@@ -34,6 +34,7 @@ Everything here was built the way a real hardware project should be: simulate fi
 ## Repository Layout
 
 ```
+├── Team_Behzad_Project_Proposal            # project proposal
 ├── full_schematic_kicad.kicad_pcb_final.kicad_pcb   # PCB layout (KiCad)
 ├── full_schematic_kicad.kicad_pcb_final.kicad_pro   # KiCad project file
 ├── gerber_files_amsc_project/                        # Fabrication-ready Gerbers
